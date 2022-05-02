@@ -1,0 +1,9 @@
+{	
+	"ferst_name" : "Stanislav",
+	"last_name" : "Salokhin",
+	"patronymic" : "Sergeevich",
+	"age" : 36 ,
+	"pets" : 1 ,
+	"salary" : $500
+		
+}
