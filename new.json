@@ -4,6 +4,6 @@
 	"patronymic" : "Sergeevich",
 	"age" : 36 ,
 	"pets" : 1 ,
-	"salary" : $500
+	"salary" : "$500"
 		
 }
