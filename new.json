@@ -1,8 +1,8 @@
 {	
-	"ferst_name" : "Stanislav",
-	"patronymic" : "Sergeevich",
-	"age" : 37,
-	"pets" : 1,
+	"ferst_name" : "Stanislav" ,
+	"patronymic" : "Sergeevich" ,
+	"age" : 37 ,
+	"pets" : 1 ,
 	"salary" : "$500"
 		
 }
