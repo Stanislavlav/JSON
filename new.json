@@ -1,9 +1,8 @@
 {	
 	"ferst_name" : "Stanislav",
-	"last_name" : "Sava",
 	"patronymic" : "Sergeevich",
-	"age" : 36 ,
-	"pets" : 1 ,
+	"age" : 37,
+	"pets" : 1,
 	"salary" : "$500"
 		
 }
