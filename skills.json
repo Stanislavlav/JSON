@@ -1,7 +1,18 @@
-{
-	"ability" : "find_of_information_in_google" ,
-	"ability2" : "reading_documentation" ,
-	"ability3" : "software_testing" ,
-	"abilitt4" : "communication" ,
-	"ability5" : "assiduty"
-}
+	soft_skills : [
+	{
+		"abbility_1" : "communication" ,
+		"abbilitty_2" : "assiduty" ,
+		"abbility_3" : "teamwork"
+
+	}
+]
+
+	hard_skills : [
+	{
+
+	"ability_1" : "find_of_information_in_google" ,
+	"ability_2" : "reading_documentation" ,
+	"ability_3" : "software_testing"
+	}
+]
+
